@@ -1,0 +1,56 @@
+{
+  "added_words":
+  [
+    "javascript"
+  ],
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "bold_folder_labels": true,
+  "caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 3,
+  "caret_style": "phase",
+  "color_scheme": "Packages/RailsBase16 Color Schemes/RailsBase16-atelierseaside.dark.tmTheme",
+  "copy_with_empty_selection": true,
+  "ensure_newline_at_eof_on_save": true,
+  "font_face": "Dejavu Sans Mono",
+  "font_option":
+  [
+    "bold"
+  ],
+  "font_size": 10,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "index_files": true,
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "ruby-lint":
+  {
+    "args":
+    [
+      "--config",
+      "path/to/ruby-lint.yml"
+    ]
+  },
+  "rulers":
+  [
+    120
+  ],
+  "save_on_focus_lost": true,
+  "spacegray_fileicons": true,
+  "spell_check": true,
+  "tab_size": 2,
+  "theme": "Spacegray Eighties.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "wide_caret": true,
+  "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
